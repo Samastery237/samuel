@@ -1,5 +1,5 @@
 def main():
-    x = get_in("What's x? ")
+    x = get_in("What'scat x? ")
     print(f"x is {x}")
 
 
